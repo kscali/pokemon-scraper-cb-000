@@ -13,7 +13,8 @@ class Pokemon
     
   end 
   
-  def self.find  
+  def self.find(name, db) 
+    pokemon_data = 
     
   end   
 
